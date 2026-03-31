@@ -1,0 +1,13 @@
+product_id,product_name,category,price,stock
+1,"Laptop Ultrabook 14""",Elektronik,12000000,8
+2,Keyboard Mechanical RGB,Elektronik,850000,20
+3,Mouse Wireless Gaming,Elektronik,450000,35
+4,Smart LED Bulb,Smart Home,120000,50
+5,Smart Plug WiFi,Smart Home,180000,40
+6,CCTV Indoor Camera,Smart Home,650000,15
+7,Carrier Backpack 60L,Outdoor,950000,12
+8,Matras Camping,Outdoor,150000,45
+9,Lampu Tenda LED,Outdoor,80000,60
+10,Blender Multifungsi,Dapur,700000,18
+11,Rice Cooker 1.8L,Dapur,500000,25
+12,Panci Set Stainless,Dapur,600000,30
